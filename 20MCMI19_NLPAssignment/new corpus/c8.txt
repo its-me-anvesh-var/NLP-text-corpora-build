@@ -1,0 +1,75 @@
+'White fungus': Drug-resistant fungal infections pose threat to India patients
+
+In May, a middle-aged-man suffering from Covid-19 was admitted in an intensive care unit (ICU) of a hospital in the eastern Indian city of Kolkata.
+
+As his condition deteriorated, the patient was put on a ventilator. He was administered steroids, a life-saving treatment for severe and critically ill Covid-19 patients. But the drug also reduces immunity and pushes up blood sugar levels in patients.
+
+After a prolonged stay in the ICU, the patient had recovered and was ready to go home when doctors found he was infected with a deadly, drug-resistant fungus.
+
+Candida auris (C. auris), discovered a little over a decade ago, is one of the world's most feared hospital microbes. This bloodstream infection is the most frequently detected germ in critical-care units around the world and has a mortality rate of around 70%.
+
+"We are seeing an increased number of patients with the infection during the second wave of Covid-19. There are a lot of sick people in the ICUs and many of them are on high steroid doses. That could be the reason," Dr Om Srivastava, a Mumbai-based infectious diseases specialist, said.
+
+What are the fungal infections on the rise?
+
+As the second wave washes over India and severely ill patients clog the ICUs, doctors are seeing an uptick in a host of dangerous fungal infections.
+
+First, there was an outbreak of mucormycosis or the black-fungus, a rare but dangerous infection, which affects the nose, eye and sometimes the brain. Some 28,000 cases and more than 200 deaths from the disease have been already recorded.
+
+Now doctors are reporting a rise in other deadly fungal infections in Covid-19 patients, mostly after a week or 10 days of stay in the ICU.
+
+There are two species of Candida fungi - auris and albicans - and they can be fatal for human beings. Aspergillus, which is another kind of fungi group, affects the lungs, and it can also be fatal.
+
+Of the more than five million types of fungi, Candida and Aspergillus are the two major groups which cause a lot of human deaths.
+
+Candida is a germ that can be present on many surfaces, like shower curtains, computer screens, doctor's stethoscopes and railings of railway carriages.
+
+Doctors say C. auris frequently causes bloodstream infections, but can also infect the respiratory system, the central nervous system and internal organs, as well as the skin.
+
+Aspergillus also remains in the environment and is often found in heating or air conditioning systems. Normally our immunity helps prevent the entry of the fungal spores in the respiratory tract.
+
+But in patients suffering from Covid-19, the fungus, helped by the damage done to the skin, blood vessel walls and other linings of the airway by the coronavirus, manages to enter the respiratory tract.
+
+This infection affects about 20% to 30% of the severely ill, mechanically ventilated Covid-19 patients, according to Dr SP Kalantri, medical superintendent of the 1,000-bed non-profit Kasturba Hospital in Wardha, Maharashtra state.
+
+What are the symptoms of the infections?
+
+Symptoms of some fungal diseases can be similar to those of Covid-19, including fever, cough, and shortness of breath.
+
+For superficial Candida infections, symptoms include a white coloured thrush - hence sometimes it is called the "white fungus" - in nose, mouth, lungs and stomach or nail beds.
+
+For a more invasive form of infection - when the bug travels into the blood - the symptoms are often a fall in blood pressure, fever, abdominal pain and urinary tract infections.
+
+Why are these infections happening?
+
+At least 5% of Covid-19 patients become critically ill and require intensive-care treatment, sometimes for a long period.
+
+Experts say that those who are put on mechanical ventilation are always at greater risk of developing bacterial or fungal infections.
+
+Lowered infection control in crowded intensive-care units during the pandemic is a major reason, say doctors.
+
+Overworked staff in clunky protective gear, increased use of major fluid tubes, decrease in hand washing compliance and changes in cleaning and disinfection practices contribute to lower infection control.
+
+"With a prolonged pandemic, complacency and fatigue has set in among healthcare workers. Infection control practices have gone down. That is the major cause," says Dr Arunaloke Chakrabarti, president of the International Society of Human and Animal Mycology.
+
+There are other reasons too.
+
+Overuse of steroids and other drugs, which weaken the body's immune system, and underlying conditions make Covid-19 patients in critical care more prone to such infections.
+
+"These fungi typically cause infections after the body's immune system is suppressed significantly. They are also known as opportunistic infections," says Dr Zachary Rubin, an immunologist.
+
+Dr Rubin says patients with HIV/Aids have a significantly increased risk of getting sick with such fungi. "These fungal diseases are normally rare in association with Covid-19, but are becoming increasingly more common in India."
+
+Diagnosis is not easy - testing typically requires a specimen from deep in the lungs. And the drugs are expensive.
+
+final class	good
+cotext-free class	good
+heading	False
+length (in characters)	237
+number of characters within links	0
+link density	0.000
+number of words	38
+number of stopwords	0
+stopword density	0.000
+html.body.div.div.main.div.div.div.article.div.div.p
+"It is very worrying and frustrating for the doctors treating these infections. It is a triple whammy - the patient's lungs are already damaged by Covid-19, they have bacterial infections and now the fungal infections," says Dr Kalantri.

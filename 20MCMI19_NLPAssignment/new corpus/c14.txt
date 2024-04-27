@@ -1,0 +1,85 @@
+Covid: Are some states lifting restrictions too soon?
+
+A number of US states are lifting Covid restrictions, despite public health concerns about relaxing measures too soon.
+
+President Joe Biden has called moves to rapidly remove restrictions "a big mistake".
+
+So are some states in a good position to be lifting restrictions?
+
+What are the Covid rules?
+
+Individual US states are in charge of their own public health policy, and despite President Biden urging caution, some are lifting restrictions.
+
+The president has emphasised the use of face coverings and social distancing until the vaccine rollout can change the nature of the virus, saying he hopes the US will be "closer to normal" by July.
+
+More than 30 states still have a mask mandate in place, which generally requires people to wear a face covering inside private businesses and public buildings.
+
+But in January and February, several states removed their mask mandates, like North Dakota, Iowa and Montana.
+
+Most states have limits on the number of people who can enter businesses such as shops, bars and restaurants, but many of these limits are also being relaxed or removed altogether.
+
+In Texas, the state-wide mask mandate and social distancing requirements are no longer in place, and all businesses were able to open at 100% capacity from 10 March.
+
+The BBC is not responsible for the content of external sites.View original tweet on Twitter
+
+Mississippi Governor Tate Reeves has also lifted that state's mask requirement, and has now allowed businesses to open at full capacity.
+
+Arizona and West Virginia have lifted capacity limits at restaurants and bars, but are keeping face coverings and social distancing requirements in place. Connecticut will do the same from 19 March.
+
+In Michigan, restaurants and bars are now allowed to operate at 50% capacity, up from 25%.
+
+Louisiana has done the same - allowing 75% capacity up from 50%.
+
+From 19 March, restaurants outside of New York City can operate at 75% capacity, up from 50%. Restaurants in New York City itself must continue to operate at 35%.
+
+What are the Covid rates?
+
+Governors have pointed to plummeting cases and hospital admissions in recent weeks as reasons for reopening.
+
+Across the US, Covid cases have been dropping since the middle of January, but they have begun to level off recently.
+
+In Texas and Mississippi, two states which have enacted the most rapid reopening, cases have even risen slightly in recent weeks, with health experts warning the rapid relaxation of restrictions risks a further rise in cases.
+
+Jennifer Nuzzo, a senior scholar at the Johns Hopkins Center for Health Security, says: "These states' lifting of measures like mask mandates are quite premature."
+
+"Though the US case numbers have fallen considerably, our daily incidence is still dangerously high."
+
+Texas has recorded the second-highest number of cases and deaths across the US during the last week.
+
+New York was the only state to record more cases and California more deaths. Both of these states are maintaining restrictions, and mask wearing is enforced.
+
+Texas does have a bigger population than most states, but even in per capita terms it has one of the highest case rates - with about 143 confirmed cases per 100,000 people over the last week, according to the Centers for Disease Control (CDC).
+
+Texas is recording about as many cases per day as the UK on average, despite having a population less than half the size.
+
+Mississippi has recorded fewer cases per capita than Texas and the majority of other states in the last week, with about 91 cases reported per 100,000 people.
+
+Hospital admissions have continued to fall in both states, but there tends to be a lag of a couple of weeks between infections and people entering hospital.
+
+There are hopes that fewer people who catch Covid will end up in hospital now vaccines are being rolled out, with the most vulnerable being protected.
+
+Does the vaccine rollout allow for reopening?
+
+The governors of Texas and Mississippi have highlighted their states' successful vaccine rollouts as a key factor in enabling them to fully reopen.
+
+But vaccination rates in these states are both below the national average, with only about 8% and 9% of their populations respectively being fully vaccinated (receiving two doses).
+
+Health experts warn this still leaves many people vulnerable to serious illness and death.
+
+Dr Vanessa Kerry, associate professor of medicine at Harvard University, said: "We need to achieve a certain level of vaccination - 70% of the population - to adequately disrupt transmission and allow for a return toward normal."
+
+Kate Grabowksi, an assistant professor at Johns Hopkins University, said: "Given that the Biden administration anticipates having enough vaccine for the entire US adult population by May, the lifting of restrictions feels like quitting the marathon at mile 25."
+
+Dr Kerry added: "This decision feels politically motivated and not public health driven."
+
+final class	good
+cotext-free class	good
+heading	False
+length (in characters)	207
+number of characters within links	0
+link density	0.000
+number of words	33
+number of stopwords	0
+stopword density	0.000
+html.body.div.div.main.div.div.div.article.div.div.p
+The Republican governors of both states made clear that the economy was a major consideration, insisting that with cases dropping and vaccines rolling out, it was time to restore livelihoods and reopen 100%.

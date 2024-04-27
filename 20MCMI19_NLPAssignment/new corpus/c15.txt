@@ -1,0 +1,51 @@
+If you think you may have Covid, it is important to get tested. Even people who don't feel very ill can put others at risk.
+
+Does a fever mean I have coronavirus?
+
+A high temperature is 37.8C or above. A fever like this can happen when the body is fighting off any infection - not just coronavirus.
+
+It is best to use a thermometer. But if you don't have one, check if you, or the person you are worried about, feels hot to the touch on the chest or back.
+
+A high temperature is unlikely with a cold.
+
+If you have a fever, arrange a coronavirus test - you can use the NHS 111 coronavirus service online.
+
+What about a cough?
+
+If you have a cold or flu you may well have a cough, along with other symptoms.
+
+Flu usually comes on suddenly and sufferers will often experience muscle aches, chills, headaches, tiredness, a sore throat and a runny or stuffed nose, along with the cough. It feels worse than a heavy cold.
+
+Colds tend to develop more gradually and are less severe, although they do still make you feel unwell. Along with a cough, there may be sneezing and a sore throat and runny nose. Fever, chills, muscle aches and headaches are rare.
+
+A coronavirus cough means coughing a lot for more than an hour, or three or more coughing fits or "episodes" in 24 hours.
+
+If you usually have a cough because of a long-standing medical condition like COPD, it may be worse than usual.
+
+You should get tested for coronavirus if you develop a new, continuous cough.
+
+What do loss or change to smell or taste mean?
+
+These are key symptoms of coronavirus and mean you should get a test.
+
+It could still be that you have a simple cold. But you need to check, even if you don't feel unwell, to avoid the risk of spreading the virus.
+
+Does sneezing mean I've got coronavirus?
+
+Sneezing is not a classic symptom of coronavirus, and unless you also have a fever, cough or loss of smell and taste, you do not need a test, according to the NHS.
+
+Sneeze droplets can spread infections though, so catch them in a tissue, put it in the bin and then wash your hands.
+
+Wash your hands regularly
+
+final class	good
+cotext-free class	short
+heading	False
+length (in characters)	58
+number of characters within links	0
+link density	0.000
+number of words	10
+number of stopwords	0
+stopword density	0.000
+html.body.div.div.main.div.div.div.article.div.div.div.ul.li
+Use a face covering when social distancing is not possible

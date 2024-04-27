@@ -1,0 +1,27 @@
+The number of average daily cases in India has fallen to just over 40,000 in recent days, down from the peaks of 400,000 in May. The drop in numbers has largely been attributed to strict lockdowns by states.
+
+But experts have warned of an impending third wave.
+
+On Friday, the federal government sent a team of experts to six states - Kerala, Arunachal Pradesh, Tripura, Odisha, Chhattisgarh and Manipur - that are seeing a rise in cases. They will assess the situation and monitor the vaccination programme in these states.
+
+Less than 5% of the country's population has been fully vaccinated since the beginning of the drive in January.
+
+The government aims to vaccinate all Indians by the end of this year, but the drive has been hobbled by slow pace, shortage of doses and vaccine hesitancy.
+
+The country is currently using two homegrown vaccines: Covishield and Covaxin. Russia's Sputnik V has been also approved for use and is being used in some quantities.
+
+The government is now racing to shore up its vaccine supplies, hoping to be well-prepared after a deadly second wave overwhelmed the country's fragile healthcare system.
+
+It is gearing up to use a local version of Novavax vaccine, which will be produced by the Serum Institute of India (SII). The government has also ordered 300 million doses of another vaccine from Indian firm Biological E.
+final class	good
+cotext-free class	good
+heading	False
+length (in characters)	179
+number of characters within links	0
+link density	0.000
+number of words	27
+number of stopwords	0
+stopword density	0.000
+html.body.div.div.main.div.div.div.article.div.div.p
+
+Earlier this week, the country's health ministry also gave approval to Indian pharma company Cipla to import Moderna vaccine, which has shown nearly 95% efficacy against Covid-19.

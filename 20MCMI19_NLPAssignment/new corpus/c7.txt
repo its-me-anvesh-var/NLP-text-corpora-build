@@ -1,0 +1,63 @@
+Covid in Tanzania: What's changed after Magufuli's death?
+
+President Samia Suluhu took over three months ago as leader of Tanzania - from John Magufuli, a prominent coronavirus sceptic who died in March from heart complications, opening up the prospect of a new approach to Covid.
+
+So has Tanzania changed after a long period of denial and doubt about coronavirus?
+
+What has the new president said about Covid?
+
+She has admitted the virus is circulating and urged people to take precautions such as:
+
+hand-washing
+
+using masks
+
+social distancing
+
+In June 2020, after going through the first wave of the pandemic, President Magufuli declared the country coronavirus free and, at least initially, did not encourage the use of face masks or indicate Tanzania would acquire vaccines.
+
+And Tanzania Medical Association head Shadrack Mwaibambe says the government should not be talking about it "because we [the authorities] have decided to follow the science".
+
+wearing masks
+
+social distancing
+
+How have things changed on the ground?
+
+The change in the political position has allowed doctors to work more freely, diagnose patients and treat them without fear of repercussions from the authorities, Mr Mwaibambe says.
+
+In early June, President Samia let international organisations and foreign embassies import vaccines for their employees.
+
+And Tanzania has now applied to join Covax.
+
+"We hurried and declared we are taking part," President Samia said.
+
+The African Union also says the country is participating in its vaccine-purchasing programme.
+
+But in mid-May President Samia told Muslim officials she had noted their concerns about about vaccine safety and her government would not accept "all that is brought to us or [what] we are told to do".
+
+"So, even on this issue of vaccines, we will satisfy ourselves before deciding whether to use them or not," she said.
+
+What about official coronavirus data?
+
+When the pandemic began, in 2020, Tanzania did start publishing official data for infections and deaths but then suddenly stopped.
+
+Opposition leader Zitto Kabwe has called on the government to start again.
+
+World Health Organization regional director for Africa Matshidiso Moeti said: "We are continuing to encourage that country to share with WHO data on a regular basis, as are all other member states."
+
+And late last month, at an official function in Dar es Salaam, President Samia announced figures for Covid-19 hospital patients.
+
+"We have about 100-plus patients, among them not less than 70 are on oxygen and the others are on normal treatment," she said.
+
+final class	good
+cotext-free class	neargood
+heading	False
+length (in characters)	94
+number of characters within links	0
+link density	0.000
+number of words	15
+number of stopwords	0
+stopword density	0.000
+html.body.div.div.main.div.div.div.article.div.div.p
+But there have been no other figures released for case numbers, hospital admissions or deaths.

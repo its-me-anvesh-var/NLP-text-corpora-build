@@ -1,0 +1,83 @@
+India coronavirus: Can all adults get vaccinated in 2021?
+
+India's government is promising to vaccinate the whole of the adult population by the end of 2021, although its biggest vaccine maker has been struggling to meet demand.
+
+The government aims to ramp up vaccine production, with a pledge to produce at least two billion doses between August and December this year.
+
+What vaccines does India already have?
+
+There are currently two locally-made vaccines for the coronavirus: Covishield and Covaxin.
+
+The Serum Institute of India (SII) makes Covishield (under licence from AstraZeneca), whilst the second largest producer, Bharat Biotech, makes the locally-developed Covaxin.
+
+The government had said in May that earlier this year, it had ordered a total of 356 million doses of the two vaccines to be available for use up until July, but not all of these doses had been delivered.
+
+The Sputnik V vaccine, which was approved for use in April, is also now available, with three million doses supplied by Russia.
+
+This vaccine is also being produced locally, with supplies expected to be available for use from July or August.
+
+How much more vaccine could India make?
+
+The government's target is for two billion doses to be made between August and the end of 2021 to fully vaccinate the entire adult population.
+
+Based on 2011 census data for India, some 900 to 950 million people are 18 years and over, and therefore eligible for vaccines.
+
+So two billion doses would largely cover this, assuming this population estimate is correct.
+
+But of the eight vaccines currently under production in India so far, only three have been approved for use - another two are in the early stages of clinical trials, and a further three are in late-stage trials.
+
+"We cannot count on those vaccines which are still not approved", says Dr Chandrakant Lahariya, an epidemiologist and public health expert.
+
+"The focus should be on scaling up [the production] capacity of existing vaccines."
+
+SII's projections include 750 million doses of Covishield and 200 million doses of Covovax - the local version of Novavax which is yet to be approved in India.
+
+Bharat Biotech is also manufacturing two types, and its projections include 550 million doses of Covaxin and 100 million doses of an intranasal vaccine in early stage trials.
+
+In April, SII and Bharat Biotech were promised $400m and $210m respectively from the Indian government to boost production.
+
+The SII recently told the government they would produce 100 million doses per month from June onwards, and Bharat Biotech had said earlier that their capacity would be boosted to 80 million doses per month from August.
+
+These projections for the manufacture of currently approved vaccines in India still fall a long way short of the government's ambition of two billion vaccines to be produced from August to December.
+
+The government has said that it is also in talks with global producers of the Pfizer, Moderna and Johnson & Johnson vaccines for additional supplies to India.
+
+But these makers have said they can discuss availability only by October this year.
+
+Shortages of raw materials
+
+India's vaccine manufacturing was hit by raw material shortages after President Biden invoked the US Defense Production Act (DPA) earlier this year, giving US vaccine makers priority access.
+
+The US administration then agreed to provide "specific raw materials" for the manufacture of Covishield vaccines in India, as the country was hit by a further Covid wave.
+
+But the Serum Institute says it still faces shortages of supplies it needs from the US.
+
+Dr Sarah Schiffling, an expert on vaccine supply chains at Liverpool's John Moores University, says the pharmaceutical supply chain is very complex and specialised.
+
+"Even when [global] demand is very high, new suppliers can't spring up as quickly as they would in some other industries, or at least those new suppliers would not be trusted."
+
+How fast are people being vaccinated?
+
+India began its vaccination drive in mid-January and over 210 million vaccine doses have been administered so far.
+
+In early April, daily vaccinations peaked at 3.6 million, but that figure then fell before picking up again in the past week.
+
+"Supply is only one component of the vaccine drive, it should also reach the arms of the people in a timely manner," Dr Chandrakant Lahariya told the BBC.
+
+At the current pace, it could take up to 1.6 years for the adult population to get vaccinated.
+
+But some states including Delhi and Maharashtra have said they will be suspending vaccinations for the 18-44 years age group due to a shortage of supplies.
+
+India's current urgent need to supply its own population led to the government halting vaccine exports in March.
+
+final class	good
+cotext-free class	good
+heading	False
+length (in characters)	188
+number of characters within links	0
+link density	0.000
+number of words	29
+number of stopwords	0
+stopword density	0.000
+html.body.div.div.main.div.div.div.article.div.div.p
+Although some smaller donations have been allowed, as well a limited amount to the global Covax vaccine-sharing scheme, there's no indication that larger exports will resume any time soon.

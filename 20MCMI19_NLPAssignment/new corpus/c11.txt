@@ -1,0 +1,39 @@
+Coronavirus: Different vaccines given to 20 in India jab mix up
+
+Twenty people in north India have been given two different coronavirus jabs for their first and second doses.
+
+They were given a shot of Covishield (AstraZeneca) in early April, but then got the locally developed Covaxin as part of their second dose in May.
+
+India has not allowed the mixing of vaccines and studies are going on around the world to see if different doses can be safely administered.
+
+Officials said the 20 people were healthy and had no side effects.
+
+Officials in Siddharthnagar district in Uttar Pradesh state said they had launched an inquiry into the "administrative oversight".
+
+Sandeep Chaudhary, Chief Medical Officer of Siddharthnagar, told the local NDTV news channel that he had asked for an explanation from "those who are guilty" and vowed to take action against them.
+
+Some villagers said that they were afraid that the "vaccine cocktail" would have an adverse impact on them in the coming weeks.
+
+Covaxin is an inactivated vaccine which means that it is made up of killed coronaviruses, making it safe to be injected into the body.
+
+Meanwhile Covishield, which is the local name for the Oxford-AstraZeneca vaccine is being manufactured locally by the Serum Institute of India, the world's largest vaccine manufacturer. It is made from a weakened version of a common cold virus (known as an adenovirus) from chimpanzees. It has been modified to look more like coronavirus - although it can't cause illness and is safe.
+
+Scientists are still studying if vaccines made on different platforms can be given to the same person. The "goof up" comes amid a severe shortage of vaccines doses across the country.
+
+The government has opened vaccinations for everyone above the age of 18 but hasn't procured enough to speed up the drive.
+
+The sluggishness of the drive has only exacerbated the impact of a devastating second wave of the virus that has overwhelmed hospitals and even crematoriums in recent weeks.
+
+The mix up comes amid a raging second wave of the pandemic. It has become one the worst affected countries with more than 27 million cases.
+
+final class	good
+cotext-free class	neargood
+heading	False
+length (in characters)	118
+number of characters within links	0
+link density	0.000
+number of words	21
+number of stopwords	0
+stopword density	0.000
+html.body.div.div.main.div.div.div.article.div.div.p
+It has also reported more than 300,000 deaths from the virus though experts fear the real number is many times higher.
